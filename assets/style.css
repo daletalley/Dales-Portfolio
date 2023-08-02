@@ -92,7 +92,8 @@
   
    }
   
-  .bolded { font-weight: bold;
+  .bolded { 
+    font-weight: bold;
     height: fit-content;
   }
   
